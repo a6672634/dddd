@@ -1,0 +1,73 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<title>Сайт</title>
+<meta charset="UTF-8"> 
+<head>
+</head>
+<body>
+	<tt><h1 ALIGN="right">Tекст сообщения</h1></tt>
+	
+	<FONT FACE = "Tahoma" SIZE="24" COLOR = "#DC143C">
+	<p align = "center" >Тупо текст  в центре с абзацом</p>
+	<p>А это перенос текста</p>
+	</FONT>
+	
+	<h2 ALIGN="left"><i><b><u>Tекст сообщения</i></b></u></h2>
+	
+	<h3 ALIGN="center">Tекст сообщения</h3>
+	
+	<h4>Tекст сообщения
+	<br><strong>Прывет</strong></br>
+	</h4>
+	
+	<h5>
+		<tt><p align = "right"> <FONT SIZE = "33" COLOR = #006400> 
+	Tекст сообщения добавить какой либо текст зеленого цвета.</FONT > </p> </tt>
+	
+	<p>фотка по ссылке
+	<img src = "https://medialeaks.ru/wp-content/uploads/2017/10/catbread-03-600x400.jpg">
+		</p>
+		<p align = "center">
+		фоточка из папки
+		<img src = "img/1.jpg" alt="Здесь должен быть кот!">
+		</p>
+		
+		</h5>
+
+		<h6>Tекст сообщения
+			<FONT FACE = "Tahoma" SIZE="18" COLOR = "#DC143C">
+				<ol type = "i">
+					<li> Системные проги 
+					<li> Прикладные проги
+					<li> Системные про
+				</ol>
+			</FONT>
+			
+			<FONT FACE = "Tahoma" SIZE="18" COLOR = "#B59E1E">
+				<ul type = "circle">
+					<li> Системные проги 
+					<li type = "square"> Прикладные проги
+					<li> Системные про
+				</ul>	
+			</FONT>	
+	<DL>
+		<DT> Процессор
+		<DD> Мамка		
+		<DT> Оператос
+		<DD> Веник
+	</DL>	
+	<FONT FACE = "Tahoma" SIZE="25" COLOR = "#DC143C">
+		<a href = "https://www.google.by/search?q=kejdge&oq=kejdge&aqs=chrome..69i57j0l5.944j1j8&sourceid=chrome&ie=UTF-8">текст ссылки</a>			
+	</FONT>
+	<br>
+	<a href = "new 2.html">Переход на новую страничку</a>
+	<br>
+	<a href = "new 2.html"><img src = "img/1.jpg" width="230" height="175"></a>
+		</h6>
+		
+		
+		
+		
+		
+</body>
+</html>
