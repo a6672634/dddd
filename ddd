@@ -71,3 +71,54 @@
 		
 </body>
 </html>
+Это CSS
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<title> </title>
+<meta charset="UTF-8"> 
+<style type="text/css" media="screen">
+h1  {
+	color:#003366;
+	text-transform:uppercase;
+	background:red;
+	border: solid 20px #006cff; width: 200px;
+	}
+li  {
+	color:#003300;
+	text-transform:uppercase;
+	background:green;
+	font-family: Verdana;
+	border: solid 2px #006cff; width: 200px;
+	}	
+ol	{
+	list-style-type: upper-roman;
+	}	
+ul 	{
+	list-style-image: url(img/cat3.png);
+	}
+body{
+	padding: 155px;
+}	
+     </style>
+	<head>
+	
+</head>
+<body>
+	<h1 ALIGN="center">Tекст сообщения</h1>
+	<h2> Второе </h2>
+	<h1> Третье</h1>
+	
+	<ol>
+	<li> Первое
+	<li> Второе
+	<li> Третье
+	</ol>	
+	
+	<ul>
+	<li> <a>Первая страница</a>
+	<li> <a>Вторая страница</a>
+	<li> <a>Третья страница</a>
+	</ul>	
+	
+</body>
+</html>
