@@ -120,5 +120,69 @@ body{
 	<li> <a>Третья страница</a>
 	</ul>	
 	
+	________________________________________
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<title> </title>
+	<meta charset="UTF-8"> 
+	<link href= "css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<div class = "green large">
+	текст
+	</div>
+	<div class = "large">
+	текст 2
+	</div>
+	<div class ="green">
+	текст 3
+	</div>
+	<p class = "green large">fdfds</p>
+	<h2 class = "green large">fsdf</h2>
+</body>
+</html>
+
+_____
+h1  {
+	color:#003366;
+	text-transform:uppercase;
+	background:red;
+}
+li  {
+	color:#003300;
+	text-transform:uppercase;
+	background:green;
+	font-family: Verdana;
+
+}	
+ol	{
+	list-style-type: upper-roman;
+}	
+ul 	{
+	list-style-image: url(../img/cat3.png);
+}
+body{
+	padding: 155px;
+}	
+div.green{
+	color: green;
+}
+div.large{
+	font-size: 64;
+}
+.large{
+	font-size: 45;
+}
+.green{
+	color: gray;
+}
+h2.large{
+	font-size: 50;
+}
+h2.green{
+	color: pink;
+}
+	
 </body>
 </html>
